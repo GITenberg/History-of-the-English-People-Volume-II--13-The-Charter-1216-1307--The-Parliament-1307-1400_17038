@@ -1,0 +1,28 @@
+_repo: History-of-the-English-People-Volume-II--13-The-Charter-1216-1307--The-Parliament-1307-1400_17038
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Green, John Richard
+    birthdate: 1837
+    deathdate: 1883
+    gutenberg_agent_id: '7099'
+    url: http://www.gutenberg.org/2009/agents/7099
+    wikipedia: http://en.wikipedia.org/wiki/John_Richard_Green
+description: ''
+gutenberg_issued: '2005-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History'
+- !lcc 'DA'
+title: "History of the English People, Volume II\r\nThe Charter, 1216-1307; The Parliament,\
+  \ 1307-1400"
+url: http://www.gutenberg.org/ebooks/17038
